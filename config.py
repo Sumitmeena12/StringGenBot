@@ -12,4 +12,4 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 OWNER_ID = int(getenv("OWNER_ID", 50480544677296)
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/dragondpworld")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+njfzqz6PzL05OTU1")
